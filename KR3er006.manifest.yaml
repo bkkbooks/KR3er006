@@ -1,0 +1,367 @@
+canonical_identifier: bkk:krp/KR3er006/v1
+canonical_location: https://kanripo.org/bkk/KR3er006/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 醫學舉要
+  identifiers:
+    krp: KR3er006
+  tags:
+    kr-categories: KR3er
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er006.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR3er006_001.yaml, hash: 'sha256:ca132ab4783a7ec78ed15c87a47f74a34ee9b67dda9eab72921c0e1096457380'}
+  - {seq: 2, filename: KR3er006_002.yaml, hash: 'sha256:3c0269964922ed562d822fb3569cc2c72fad30f7c05d2d0e2cb0fb5b0893bfab'}
+  - {seq: 3, filename: KR3er006_003.yaml, hash: 'sha256:400e1da81cc45d605ab0edcb08027760682f8c173f24cdd974db28ca5537743f'}
+  - {seq: 4, filename: KR3er006_004.yaml, hash: 'sha256:cfc5aac461cfa4e1d139d90239b73abdcb12c66c5ac15bab09c68b7928074f89'}
+  - {seq: 5, filename: KR3er006_005.yaml, hash: 'sha256:2e8798247bd5d281956e5b0fca074b4331f5fac0dc0fe0ac3b1be100cd136800'}
+  - {seq: 6, filename: KR3er006_006.yaml, hash: 'sha256:d1d5867ee920c7f30ae77f9682c5e1fe06b4e0966a762bda785351da902b78ed'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3er006_001.markers.yaml, hash: 'sha256:e5253700db60aeef0cdd513be204a0d273e8608b2d37dd6043b9c0d49f58bb95'}
+  - {seq: 2, role: markers, filename: assets/KR3er006_002.markers.yaml, hash: 'sha256:203484e3d378223fa779c06c3ae84cf92034649252585bd046b98fbce33171fd'}
+  - {seq: 3, role: markers, filename: assets/KR3er006_003.markers.yaml, hash: 'sha256:91904e8278a4833aaf91b0e31f60967fdee05f3586c31c7c52c74d093d74a5bb'}
+  - {seq: 4, role: markers, filename: assets/KR3er006_004.markers.yaml, hash: 'sha256:e56d24e0276f842c7591d600ba75888b84b18badc20ca200a8c46384bd82302e'}
+  - {seq: 5, role: markers, filename: assets/KR3er006_005.markers.yaml, hash: 'sha256:fd0e013fba00dc9f74d2c0570c29cf60f13e38faea1df8858bfafe6ec8a5fe07'}
+  - {seq: 6, role: markers, filename: assets/KR3er006_006.markers.yaml, hash: 'sha256:3e8a4396b63c76ab884c30a04aa97ed70cf00147562b9ece8d1a0d379f400cb5'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3er006_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 6492
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3er006_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 6492
+  label: 六經合論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er006_jc_002-d3.h1s1
+    span:
+    - body
+    - 0
+    - 5499
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3er006_jc_002-d3d2
+    span:
+    - body
+    - 2
+    - 5499
+  label: 時邪合論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er006_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 9879
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3er006_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 9879
+  label: 雜症合論
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er006_jc_004-d5.h1s1
+    span:
+    - body
+    - 0
+    - 3632
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3er006_jc_004-d5d2
+    span:
+    - body
+    - 2
+    - 3632
+  label: 治法合論
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er006_jc_005-d6.h1s1
+    span:
+    - body
+    - 0
+    - 4410
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3er006_jc_005-d6d2
+    span:
+    - body
+    - 2
+    - 4410
+  label: 古今方補註
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er006_jc_006-d7.h1s1
+    span:
+    - body
+    - 0
+    - 6399
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3er006_jc_006-d7d2
+    span:
+    - body
+    - 2
+    - 6399
+  label: 玉臺新案
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er006_jc_006-d7.d2d2
+    span:
+    - body
+    - 6
+    - 442
+  label: 寒證醫案
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3er006_jc_006-d7.d2d3
+    span:
+    - body
+    - 442
+    - 594
+  label: 發斑醫案
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3er006_jc_006-d7.d2d4
+    span:
+    - body
+    - 594
+    - 1011
+  label: 火證醫案
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3er006_jc_006-d7.d2d5
+    span:
+    - body
+    - 1011
+    - 1779
+  label: 治脈伏醫案
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3er006_jc_006-d7.d2d6
+    span:
+    - body
+    - 1779
+    - 2117
+  label: 治老人醫案
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3er006_jc_006-d7.d2d7
+    span:
+    - body
+    - 2117
+    - 2298
+  label: 瘧疾醫案
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3er006_jc_006-d7.d2d8
+    span:
+    - body
+    - 2298
+    - 2671
+  label: 痢疾醫案
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3er006_jc_006-d7.d2d9
+    span:
+    - body
+    - 2671
+    - 2875
+  label: 勞倦內傷醫案
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3er006_jc_006-d7.d2d10
+    span:
+    - body
+    - 2875
+    - 3093
+  label: 偏枯醫案
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3er006_jc_006-d7.d2d11
+    span:
+    - body
+    - 3093
+    - 3337
+  label: 痹證醫案
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3er006_jc_006-d7.d2d12
+    span:
+    - body
+    - 3337
+    - 3811
+  label: 痿證醫案
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3er006_jc_006-d7.d2d13
+    span:
+    - body
+    - 3811
+    - 3908
+  label: 虛勞醫案
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3er006_jc_006-d7.d2d14
+    span:
+    - body
+    - 3908
+    - 4162
+  label: 腫脹醫案
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3er006_jc_006-d7.d2d15
+    span:
+    - body
+    - 4162
+    - 4233
+  label: 腳氣醫案
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3er006_jc_006-d7.d2d16
+    span:
+    - body
+    - 4233
+    - 4563
+  label: 發黃醫案
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3er006_jc_006-d7.d2d17
+    span:
+    - body
+    - 4563
+    - 4713
+  label: 濁證醫案
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3er006_jc_006-d7.d2d18
+    span:
+    - body
+    - 4713
+    - 4856
+  label: 頭痛醫案
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3er006_jc_006-d7.d2d19
+    span:
+    - body
+    - 4856
+    - 5060
+  label: 腹痛醫案
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3er006_jc_006-d7.d2d20
+    span:
+    - body
+    - 5060
+    - 5421
+  label: 胎前醫案
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3er006_jc_006-d7.d2d21
+    span:
+    - body
+    - 5421
+    - 6291
+  label: 產後醫案
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3er006_jc_006-d7.d2d22
+    span:
+    - body
+    - 6291
+    - 6399
+  label: 血厥醫案
+  type: section
+  level: 3
+hash: sha256:3bc16bfb32a6c1b7de676bb42d05eb241ed275d647e88a92ea4eda5d057a3d55
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

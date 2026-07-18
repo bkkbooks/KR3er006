@@ -24,12 +24,12 @@ assets:
   - {seq: 5, filename: KR3er006_005-jc.yaml, hash: 'sha256:b2aa418f364d3e24823788c33b342bae6aa3ce9a5500e82488682eb5ad62508d'}
   - {seq: 6, filename: KR3er006_006-jc.yaml, hash: 'sha256:83a0777e8f3e23091720585dcdcbbf31c78fe2089b82670cb8fe34c78a6a2823'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3er006_001-jc.markers.yaml, hash: 'sha256:1c2d4640e960553cb91b1acd90cd1ff0536a409bd64ff7820b74d0d97b28432a'}
-  - {seq: 2, role: markers, filename: assets/KR3er006_002-jc.markers.yaml, hash: 'sha256:d4f23c366aeb1a7bed5bd379a1144be9a9038b94a1ebe9d174ed0c2b4c947515'}
-  - {seq: 3, role: markers, filename: assets/KR3er006_003-jc.markers.yaml, hash: 'sha256:2efa8fae88c25cda66339fb67480df4c749fe2c4f6a68238489224568a441b7d'}
+  - {seq: 1, role: markers, filename: assets/KR3er006_001-jc.markers.yaml, hash: 'sha256:4519f0936142dd378106cc9318ad1226835b797a0300df99456e6ce28337b65c'}
+  - {seq: 2, role: markers, filename: assets/KR3er006_002-jc.markers.yaml, hash: 'sha256:206e5ba91a3b4f5fe7d121a968c8c9f9f40575210b7a33a2b66ba7e43c394280'}
+  - {seq: 3, role: markers, filename: assets/KR3er006_003-jc.markers.yaml, hash: 'sha256:424e080498a635ea21c81230b93b9c7f3214fcf63387f3237275e0b0eda3b346'}
   - {seq: 4, role: markers, filename: assets/KR3er006_004-jc.markers.yaml, hash: 'sha256:d1d7309f973d38700e0f62cb289bde22544afa392df9150d19a6cbee04ae2624'}
-  - {seq: 5, role: markers, filename: assets/KR3er006_005-jc.markers.yaml, hash: 'sha256:c603c3f21115f820b9d064ae557c1f4d3f79f55c6a223892b1e46147c4fe120f'}
-  - {seq: 6, role: markers, filename: assets/KR3er006_006-jc.markers.yaml, hash: 'sha256:69fd95ab5ddc3c2daa98f78d6f445fe665239c21a8b51d190bd32f85a1ba7f68'}
+  - {seq: 5, role: markers, filename: assets/KR3er006_005-jc.markers.yaml, hash: 'sha256:f265f804b075ef36efa6e690cc0b81a667bfb2f5f5f3fb6a23358f7f977945d1'}
+  - {seq: 6, role: markers, filename: assets/KR3er006_006-jc.markers.yaml, hash: 'sha256:ed6fefc64c98b89ae1fcea2595b3f8f8a1c8c1bb522d08d1e97bd26f670fa616'}
 table_of_contents:
 - ref:
     seq: 1
@@ -361,4 +361,4 @@ table_of_contents:
   label: 血厥醫案
   type: section
   level: 3
-hash: sha256:ec8183d254b663dc6817ce964f96f9d737ccab0b6ff72d12a154f60bf75b47a7
+hash: sha256:92733589e1cb01852ea0ae8bb1023572a7fc2ad1be8714d3a4a4056ce8aebcf0

@@ -24,12 +24,12 @@ assets:
   - {seq: 5, filename: KR3er006_005.yaml, hash: 'sha256:4f3994ca4a516cbb89186aa958ff26ba49db4d7b89eaa16b461c4af7576ba63b'}
   - {seq: 6, filename: KR3er006_006.yaml, hash: 'sha256:2af47f536b64bc7613389a6ab5ae58d08d5f601b60da947b65365097aff112e2'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3er006_001.markers.yaml, hash: 'sha256:26e6cc6d363c6f1a8b3a8f6fd4462a7089c416532d23c61e9a72dea630b9a647'}
-  - {seq: 2, role: markers, filename: assets/KR3er006_002.markers.yaml, hash: 'sha256:98ec31a22a41e1bfec67cf52304ee97f0e9059cb0d15beb29200bcd21063616f'}
-  - {seq: 3, role: markers, filename: assets/KR3er006_003.markers.yaml, hash: 'sha256:48c4e10a5b852ec0cfc0eeea645a67462ab3e04859556b86f86756e86485eb46'}
+  - {seq: 1, role: markers, filename: assets/KR3er006_001.markers.yaml, hash: 'sha256:a145dc5a630f799075ad62ca44b304723d90c108e74cc510e8cfbb1cdce7f10b'}
+  - {seq: 2, role: markers, filename: assets/KR3er006_002.markers.yaml, hash: 'sha256:673b7afaa6ca24e047ad780928f393f07b5cc4195ff82d390178eb3190dc18d6'}
+  - {seq: 3, role: markers, filename: assets/KR3er006_003.markers.yaml, hash: 'sha256:df5f75a1466104ddc9491ccef72493560d19de503e49eb94aaa099c25f4f2bf5'}
   - {seq: 4, role: markers, filename: assets/KR3er006_004.markers.yaml, hash: 'sha256:bc8e7273e89b4bafc745e17021ad1c5f6e577b39bfaa42124f85bd290002876c'}
-  - {seq: 5, role: markers, filename: assets/KR3er006_005.markers.yaml, hash: 'sha256:344020889d6ed094e8a924f121c914a2925365f9f1c2b1c9441ff870f8ab3e99'}
-  - {seq: 6, role: markers, filename: assets/KR3er006_006.markers.yaml, hash: 'sha256:a1561da3cddf23fd2a721c87e0d3f1ab91a090543657bb45516a59abc3e3e2d8'}
+  - {seq: 5, role: markers, filename: assets/KR3er006_005.markers.yaml, hash: 'sha256:f11ea1aff57425ae68d5a4c7f13ca4d7a7c9577c6a7b4a6399df76fa4dd6f61d'}
+  - {seq: 6, role: markers, filename: assets/KR3er006_006.markers.yaml, hash: 'sha256:773da57dd47c7efd6c0d8d46b92c6921be4c80de6a1e02de7dcf93d27842cd2f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -361,7 +361,7 @@ table_of_contents:
   label: 血厥醫案
   type: section
   level: 3
-hash: sha256:08369043656c85f9a5370ea816d6a3a74e773f6ebc7b688d4f8f6b03e28b2592
+hash: sha256:135acef92ba3dcd72deedadf148ead0aa0b0f362d07e708ec970176da2b1b05c
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
